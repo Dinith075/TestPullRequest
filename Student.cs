@@ -8,6 +8,7 @@ namespace FileManager.Common.Models
 {
     public class Student
     {
+        //Inicializacion de parametros
         #region Parameters
         public int StudentId { get; set; }
         public String Name { get; set; }
